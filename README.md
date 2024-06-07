@@ -14,7 +14,16 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
+## Angular server running - use ng serve
+<img align="left" alt="Visual Studio Code"  src="Backend.png" style="padding-right:10px;" />
+
+
+
+<br />
+<br />
+
+
 ## 
-<img align="left" alt="Visual Studio Code" width="26px" src="Backend.png" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code"  src="Angular.png" style="padding-right:10px;" />
 
 
