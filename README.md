@@ -15,15 +15,25 @@ Run `ng generate component component-name` to generate a new component. You can 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
 ## Angular server running - use ng serve
-<img align="left" alt="Visual Studio Code"  src="Backend.png" style="padding-right:10px;" />
+<img  alt="Visual Studio Code"  src="Backend.png" style="padding-right:10px;" /> &nbsp;     
 
 
 
-<br />
-<br />
+## Stable build
+<img  alt="Visual Studio Code"  src="Mongo.png" style="padding-right:10px;" /> &nbsp;    
 
 
-## 
-<img align="left" alt="Visual Studio Code"  src="Angular.png" style="padding-right:10px;" />
+## Test requests in Postman to verify backend functionality
+<img  alt="Visual Studio Code"  src="Postman.png" style="padding-right:10px;" /> &nbsp;     
+
+
+
+## Here's what the unstyled angular output should look like
+<img  alt="Visual Studio Code"  src="Angular.png" style="padding-right:10px;" /> &nbsp;     
+
+## Review submit will store queries in mongo
+<img  alt="Visual Studio Code"  src="Reviews.png" style="padding-right:10px;" /> &nbsp;     
+
+
 
 
